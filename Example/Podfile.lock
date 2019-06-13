@@ -1,0 +1,16 @@
+PODS:
+  - MediatorOil (0.1.0)
+
+DEPENDENCIES:
+  - MediatorOil (from `../`)
+
+EXTERNAL SOURCES:
+  MediatorOil:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MediatorOil: 1057c13790a61ae1a3d70a77f87785211928282c
+
+PODFILE CHECKSUM: 091036e10dd94e504eb2b9a75ffeb0fecb79f309
+
+COCOAPODS: 1.5.3
